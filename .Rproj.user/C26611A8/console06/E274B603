@@ -1,0 +1,23 @@
+[0m[0K]0;:/c/Users/Phoebe/Desktop/Temporary_add_to_version_control[?25l
+[0;32mPhoebe@Phoebe-laptop [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd ~[0K[?25h/[0KD[0K[?25l
+Desktop/   Documents/ Downloads/[0K
+[0K
+[0;32mPhoebe@Phoebe-laptop [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0m[0K
+$ cd ~/D[0K[?25h[?25l
+Desktop/   Documents/ Downloads/[0K
+[0K
+[0;32mPhoebe@Phoebe-laptop [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0m[0K
+$ cd ~/D[0K[?25he[0Ks[0Kk[0Kt[0Ko[0K[?25lp[0K[14G[?25h[15G[?25l$ cd ~/Desktop/[0K[?25hT[0Ke[0Km[0Kp[0Ko[0Kr[0Ka[0Kr[0Ky[0K_[0Ka[0Kd[0Kd[0K_[0Kt[0Ko[0K_[0K[?25lv[0K[33G[?25h[34G[?25l$ cd ~/Desktop/Temporary_add_to_ve[0K[?25hr[0Ks[0Ki[0Ko[0Kn[0K_[0Kc[0Ko[0Kn[0Kt[0Kr[0Ko[0Kl[0K/[0K[?25l
+[0K[?25h[?25l
+[0;32mPhoebe@Phoebe-laptop [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0Ki[0K[?25l$ git init[0K[?25h[?25l
+[0K[?25hInitialized empty Git repository in C:/Users/Phoebe/Desktop/Temporary_add_to_version_control/.git/[0K[?25l
+[0K[?25h[?25l
+[0;32mPhoebe@Phoebe-laptop [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[?25l
+[0K[?25hNothing specified, nothing added.[0K[?25l
+Maybe you wanted to say 'git add .'?[0K
+[0K[?25h[?25l
+[0;32mPhoebe@Phoebe-laptop [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0K[?25ld[0K[9G[?25h[10G[11G[?25l$ git add .[0K[?25h
